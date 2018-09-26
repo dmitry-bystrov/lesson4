@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android3_4</string>
+    <string name="description_empty">Description is empty</string>
 </resources>
